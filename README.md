@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ishaan and welcome to my profile!
 - 👀 I’m interested in Full Stack Development, Mobile Development, Cybersecurity and Data Science
-- 🌱 I’m a fourth year student pursuing a Bachelors Degree in Computer Science and Business
+- 🌱 I’m a fourth year student pursuing a Bachelors Degree in Computer Science and Business from The University Of Alberta 
 - 💻 I'm currently working on: Data Science certification from Brainstation, Personal Website, Lane Detection AI system and a End to End web application
 - 🤌 I'm a big fan of Hackathons and so far have competed in the MLH 2020 Bon Hacketit, HackEd Beta 2021 and MLH 2022 Hack Cade 2 hackathons!
 - 🛬 Apart from coding I love travelling and watching football(soccer)
